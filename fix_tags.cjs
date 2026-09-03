@@ -1,0 +1,13 @@
+const fs = require('fs');
+const esbuild = require('esbuild');
+let p = fs.readFileSync('src/components/ProblemSolving.jsx', 'utf8');
+p = p.split("\/EASY LEVEL").join(">EASY LEVEL\");
+p = p.split('EASY LEVEL').join('>EASY LEVEL');
+p = p.split('>>EASY').join('>EASY');
+p = p.split('MEDIUM LEVEL').split('>MEDIUM').join('>MEDIUM');
+p = p.split('MEDIUM LEVEL').join('>MEDIUM LEVEL');
+p = p.split('>>MEDIUM').join('>MEDIUM');
+p = p.split('HARD LEVEL').join('>HARD LEVEL');
+p = p.split('>>HARD').split('>HARD');
+p = p.split("#10B981'}}~").join("#10B981'}}>");
+fs.writeFileSync('src/components/ProblemSolving.jsx', p, 'utf8');
