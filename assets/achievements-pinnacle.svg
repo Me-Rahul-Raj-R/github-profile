@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="100%">
+  <defs>
+    <linearGradient id="achBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090E16" />
+      <stop offset="100%" stop-color="#06090E" />
+    </linearGradient>
+    <linearGradient id="cardG1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111C28" />
+      <stop offset="100%" stop-color="#0B121C" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', Consolas, monospace; }
+    .sans { font-family: 'Inter', system-ui, sans-serif; }
+    .ti-sub { font-size: 11px; font-weight: 700; letter-spacing: 1px; }
+    .ti-title { font-size: 15px; font-weight: 800; letter-spacing: 0.5px; fill: #F8pAFC; }
+    .ti-desc { font-size: 11.5px; fill: #CBD5E1; }
+  </style>
+
+  <rect width="1000" height="250" rx="16" fill="url(#achBg)" />
+  <rect x="1" y="1" width="998" height="248" rx="15" fill="none" stroke="#1E293B" stroke-width="1.2" />
+
+  <g transform="translate(25, 25)">
+    <g transform="translate(0, 0)">
+      <rect width="300" height="200" rx="12" fill="url(#cardG1)" stroke="#10B981" stroke-opacity="0.5" stroke-width="1.2" />
+      <rect x="0" y="0" width="4" height="200" rx="2" fill="#10B981" />
+      <text x="20" y="28" class="mono ti-sub" fill="#10B981">SIH<tspan fill="#94A3B8"> | HACKATHON</tspan></text>
+      <text x="20" y="52" class="sans ti-title">SIH 2025 Internal Winner</text>
+      <text x="20" y="78" class="sans ti-desc">Secured 3rd Place among 50+ teams</text>
+      <text x="20" y="96" class="sans ti-desc">at Smart India Hackathon 2025.</text>
+      <text x="20" y="114" class="sans ti-desc">Built EDUTRACK smart system.</text>
+      <rect x="20" y="145" width="110" height="24" rx="12" fill="#0E1820" stroke="#10B981" stroke-opacity="0.5" />
+      <text x="75" y="161" text-anchor="middle" class="mono" fill="#10B981" font-size="11" font-weight="700">3rd Place</text>
+    </g>
+
+    <g transform="translate(325, 0)">
+      <rect width="300" height="200" rx="12" fill="url(#cardG1)" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.2" />
+      <rect x="0" y="0" width="4" height="200" rx="2" fill="#38BDF8" />
+      <text x="20" y="28" class="mono ti-sub" fill="#38BDF8">COGNIZANT<tspan fill="#94A3B8"> | HACKATHON</tspan></text>
+      <text x="20" y="52" class="sans ti-title">Cognizant Technoverse</text>
+      <text x="20" y="78" class="sans ti-desc">Qualified for Round 2 among</text>
+      <text x="20" y="96" class="sans ti-title" font-size="11px" fill="#CBD5E1">1,000+ competing applicants.</text>
+      <text x="20" y="114" class="sans ti-desc">Demonstrated advanced problem solving.</text>
+      <rect x="20" y="145" width="130" height="24" rx="12" fill="#0E1820" stroke="#38BDF8" stroke-opacity="0.5" />
+      <text x="85" y="161" text-anchor="middle" class="mono" fill="#38BDF8" font-size="11" font-weight="700">Round 2 Qualifier</text>
+    </g>
+
+    <g transform="translate(650, 0)">
+      <rect width="300" height="200" rx="12" fill="url(#cardG1)" stroke="#F59E0B" stroke-opacity="0.5" stroke-width="1.2" />
+      <rect x="0" y="0" width="4" height="200" rx="2" fill="#F59E0B" />
+      <text x="20" y="28" class="mono ti-sub" fill="#F59E0B">CODING<tspan fill="#94A3B8"> | ALGORITHMS</tspan></text>
+      <text x="20" y="52" class="sans ti-title">LeeqCode 150+ DSA</text>
+      <text x="20" y="78" class="sans ti-desc">Solved 150+ LeeqCode problems</text>
+      <text x="20" y="96" class="sans ti-desc">spanning Arrays, Strings, Trees,</text>
+      <text x="20" y="114" class="sans ti-desc">DP, and Object-Oriented Systems.</text>
+      <rect x="20" y="145" width="110" height="24" rx="12" fill="#0E1820" stroke="#F59E0B" stroke-opacity="0.5" />
+      <text x="75" y="161" text-anchor="middle" class="mono" fill="#F59E0B" font-size="11" font-weight: 700">150+ Solved</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.ds_store
+*.log
+.system_generated/
+*.swp
+scratch/

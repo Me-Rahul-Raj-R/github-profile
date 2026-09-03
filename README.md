@@ -13,7 +13,7 @@
 
 ---
 
-3# 01 // FOUNDATION & PROFILE
+## 01 // FOUNDATION & PROFILE
 
 <div align="center">
   <img src="assets/about-terminal.svg" alt="Rahul Raj R - Terminal About" width="100%" />
@@ -37,7 +37,7 @@
 
 ---
 
-3# 04 // PROFESSIONAL EXPERIENCE
+## 04 // PROFESSIONAL EXPERIENCE
 
 <div align="center">
   <img src="assets/experience-timeline.svg" alt="Rahul Raj R - Experience Timeline" width="100%" />
@@ -45,7 +45,7 @@
 
 ---
 
-3# 05 // DSA PROBLEM SOLVING & COMPETITIVE PROGRAMMING
+## 05 // DSA PROBLEM SOLVING & COMPETITIVE PROGRAMMING
 
 <div align="center">
   <img src="assets/leetcode-dashboard.svg" alt="Rahul Raj R - LeetCode Scorecard" width="100%" />
@@ -69,7 +69,7 @@
 
 ---
 
-3# 08 // GITHUB ACTIVITY
+## 08 // GITHUB ACTIVITY
 
 <div align="center">
   <img src="assets/github-activity-dashboard.svg" alt="Rahul Raj R - GitHub Activity" width="100%" />
@@ -77,7 +77,7 @@
 
 ---
 
-3# 09 // CONNECT WITH ME
+## 09 // CONNECT WITH ME
 
 <div align="center">
   <img src="assets/footer.svg" alt="Rahul Raj R - Connect Footer" width="100%" />

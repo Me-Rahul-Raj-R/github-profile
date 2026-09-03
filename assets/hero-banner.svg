@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C10" />
+      <stop offset="50%" stop-color="#0D1219" />
+      <stop offset="100%" stop-color="#05080C" />
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FE" />
+      <stop offset="35%" stop-color="#C084FC" />
+      <stop offset="70%" stop-color="#EC4899" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#131B28" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0B1018" stop-opacity="0.8" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FF" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#00F2FF" stop-opacity="0.15" />
+    </linearGradient>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.22" />
+      <stop offset="40%" stop-color="#00F2FF" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#0B0F14" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="gridPattern" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1E293B" stroke-width="0.65" stroke-opacity="0.35" />
+      <circle cx="28" cy="0" r="1" fill="#38BDF8" fill-opacity="0.25" />
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace; }
+    .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <rect width="1000" height="360" rx="16" fill="url(#bgGrad)" />
+  <rect width="1000" height="360" rx="16" fill="url(#gridPattern)" />
+  <rect x="1" y="1" width="998" height="358" rx="15" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" />
+  <ellipse cx="500" cy="170" rx="380" ry="130" fill="url(#centerGlow)" />
+
+  <g transform="translate(500, 64)">
+    <rect x="-120" y="-16" width="240" height="32" rx="16" fill="#09111C" stroke="#00F2FF" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="-95" cy="0" r="4" fill="#10B981" filter="url(#glow)" />
+    <text x="8" y="4" text-anchor="middle" class="mono" fill="#00F2FE" font-size="12" font-weight="600" letter-spacing="2">&lt; developer.profile /&gt;</text>
+  </g>
+
+  <text x="500" y="146" text-anchor="middle" class="sans" fill="url(#titleGrad)" font-size="48" font-weight="800" letter-spacing="4" filter="url(#glow)">RAHUL RAJ R</text>
+
+
+  <text x="500" y="186" text-anchor="middle" class="mono" fill="#9AA5B1" font-size="14.5" font-weight="500" letter-spacing="1.5">SOFTWARE DEVELOPER  |  JAVA DEVELOPER  |  FULL STACK WEB DEVELOPER</text>
+
+  <g transform="translate(500, 226)">
+    <rect x="-230" y="-14" width="460" height="28" rx="14" fill="#0F1724" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1" />
+    <text x="0" y="4" text-anchor="middle" class="mono" fill="#38BDF8" font-size="11.5" font-weight="600" letter-spacing="2.5">CSE &#x2022; JAVA &#x2022; FULL STACK &#x2022; AI &#x2022; WEB</text>
+  </g>
+
+  <g transform="translate(200, 270)">
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="135" height="36" rx="8" fill="url(#cardGrad)" stroke="#00F0FE" stroke-opacity="0.4" stroke-width="1" />
+      <circle cx="22" cy="18" r="3.5" fill="#00F0FE" />
+      <text x="75" y="22" text-anchor="middle" class="mono" fill="#F4F7FA" font-size="12" font-weight="600">GitHub</text>
+    </g>
+    <g transform="translate(155, 0)">
+      <rect x="0" y="0" width="135" height="36" rx="8" fill="url(#cardGrad)" stroke="#F59E0B" stroke-opacity="0.4" stroke-width="1" />
+      <circle cx="22" cy="18" r="3.5" fill="#F59E0B" />
+      <text x="75" y="22" text-anchor="middle" class="mono" fill="#F4F7FA" font-size="12" font-weight="600">LeetCode</text>
+    </g>
+    <g transform="translate(310, 0)">
+      <rect x="0" y="0" width="135" height="36" rx="8" fill="url(#cardGrad)" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1" />
+      <circle cx="22" cy="18" r="3.5" fill="#38BDF8" />
+      <text x="75" y="22" text-anchor="middle" class="mono" fill="#F4F7FA" font-size="12" font-weight="600">LinkedIn</text>
+    </g>
+    <g transform="translate(465, 0)">
+      <rect x="0" y="0" width="135" height="36" rx="8" fill="url(#cardGrad)" stroke="#A78BFA" stroke-opacity="0.4" stroke-width="1" />
+      <circle cx="22" cy="18" r="3.5" fill="#A78BFA" />
+      <text x="75" y="22" text-anchor="middle" class="mono" fill="#F4F7FA" font-size="12" font-weight="600">Portfolio</text>
+    </g>
+  </g>
+</svg>

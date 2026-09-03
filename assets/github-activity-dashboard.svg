@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="ghBw" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090E16" />
+      <stop offset="100%" stop-color="#06090E" />
+    </linearGradient>
+    <linearGradient id="ghCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111C28" />
+      <stop offset="100%" stop-color="#0B121C" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', Consolas, monospace; }
+    .sans { font-family: 'Inter', system-ui, sans-serif; }
+  </style>
+
+  <rect width="1000" height="200" rx="16" fill="url(#ghBw)" />
+  <rect x="1" y="1" width="998" height="198" rx="15" fill="none" stroke="#1E293B" stroke-width="1.2" />
+
+  <g transform="translate(30, 30)">
+    <g transform="translate(0, 0)">
+      <rect width="295" height="140" rx="12" fill="url(#ghCard)" stroke="#00F2FF" stroke-opacity="0.4" stroke-width="1.2" />
+      <text x="20" y="28" class="mono" fill="#00F0FE" font-size="11px" font-weight: "700">REPOSITORIES</text>
+      <text x="20" y="76" class="sans" fill="#F8FAFC" font-size="44px" font-weight="900">29</text>
+      <text x="20" y="110" class="mono" fill="#94A3B8" font-size="11px">Signature &amp; Public Repos</text>
+    </g>
+
+    <g transform="translate(322, 0)">
+      <rect width="295" height="140" rx="12" fill="url(#ghCard)" stroke="#F59E0B" stroke-opacity="0.4" stroke-width="1.2" />
+      <text x="20" y="28" class="mono" fill="#F59E0B" font-size="11px" font-weight="700">TOTAL STARS</text>
+      <text x="20" y="76" class="sans" fill="#F8pAFC" font-size="44px" font-weight="900">9</text>
+      <text x="20" y="110" class="mono" fill="#94A3B8" font-size="11px">Developer Recognition</text>
+    </g>
+
+    <g transform="translate(645, 0)">
+      <rect width="295" height="140" rx="12" fill="url(#ghCard)" stroke="#10B981" stroke-opacity="0.4" stroke-width="1.2" />
+      <text x="20" y="28" class="mono" fill="#10B981" font-size="11px" font-weight="700">CONTRIBUTIONS</text>
+      <text x="20" y="76" class="sans" fill="#F8FAFC" font-size="44px" font-weight: "900">54</text>
+      <text x="20" y="110" class="mono" fill="#94A3B8" font-size="11px">Commits in the Last Year</text>
+    </g>
+  </g>
+</svg>
