@@ -64,7 +64,7 @@
 ## 07 // ACADEMIC FOUNDATION & CERTIFICATIONS
 
 <div align="center">
-  <img src="assets/foundation-blueprint.svg" alt="Rahul Raj R - Academic Foundation width="100%" />
+  <img src="assets/foundation-blueprint.svg" alt="Rahul Raj R - Academic Foundation" width="100%" />
 </div>
 
 ---
