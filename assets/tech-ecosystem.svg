@@ -62,7 +62,7 @@
     <rect x="-115" y="-45" width="230" height="90" rx="16" fill="url(#centerNodeGrad)" stroke="#38BDF8" stroke-width="1.8" filter="url(#nodeGlow)" />
     <circle cx="-90" cy="-22" r="3" fill="#00F0FF" />
     <circle cx="90" cy="-22" r="3" fill="#00F0FE" />
-    <text x="0" y="-12" text-anchor="middle" class="sans" fill="#F8pAFC" font-size="16" font-weight="800" letter-spacing="1.5">FULL-STACK</text>
+    <text x="0" y="-12" text-anchor="middle" class="sans" fill="#F8FAFC" font-size="16" font-weight="800" letter-spacing="1.5">FULL-STACK</text>
     <text x="0" y="10" text-anchor="middle" class="sans" fill="#38BDF8" font-size="15" font-weight="800" letter-spacing="1.5">DEVELOPER</text>
     <text x="0" y="28" text-anchor="middle" class="mono" fill="#94A3B8" font-size="9" font-weight="600" letter-spacing="1.5">CSE &#x2022; JAVA &#x2022; AI &#x2022; WEB</text>
   </g>

@@ -8,7 +8,7 @@ export const profileData = {
     ],
     "positioning": "Software Developer | Java Developer | Full Stack Web Developer",
     "domains": "CSE * JAVA * FULL STACK * AI * WEB",
-    "summary": "Software Developer with hands-on experience in Java, Full-Stack Development, REST APIs, MySQL, MongoDB, and the MERN stack. Built and delivered multiple web applications, attendance management systems, financial tracking solutions, and AI-powered projects. Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Software Engineering. Solved 150+ LeetCode problems and demonstrated problem-solving skills through hackathons and real-world development projects.",
+    "summary": "Software Developer with hands-on experience in Java, Full-Stack Development, REST APIs, MySQL, MongoDB, and the MERN stack. Built and delivered multiple web applications, attendance management systems, financial tracking solutions, and AI-powered projects. Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Software Engineering. Solved 318+ LeetCode problems and demonstrated problem-solving skills through hackathons and real-world development projects.",
     "links": {
       "github": "https://github.com/Me-Rahul-Raj-R",
       "leetcode": "https://leetcode.com/u/Rahul-Raj-R/",
@@ -371,7 +371,7 @@ export const profileData = {
     "hard": 23,
     "hardTotal": 971,
     "acceptanceRate": "90.67%",
-    "submissionsYear": 388,
+    "submissionsYear": 386,
     "activeDays": 111,
     "maxStreak": 28,
     "rank": "457,984",
@@ -433,9 +433,9 @@ export const profileData = {
     }
   ],
   "githubStats": {
-    "repositories": 29,
+    "repositories": 30,
     "stars": 9,
-    "contributions": 54,
+    "contributions": 43,
     "profileUrl": "https://github.com/Me-Rahul-Raj-R"
   }
 };
