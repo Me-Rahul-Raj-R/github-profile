@@ -27,7 +27,7 @@ export default function Foundation({ education, certifications }) {
             </h3>
           </div>
 
-          <h4 style={{fontSize: '18px', fontWeight: '800', color: '#F8pAFC', marginBottom: '4px'}}>
+          <h4 style={{fontSize: '18px', fontWeight: '800', color: '#F8FAFC', marginBottom: '4px'}}>
             {education.degree}
           </h4>
           <p style={{fontSize: '14px', color: '#38BDF8', fontWeight: '600', marginBottom: '14px'}}>

@@ -53,7 +53,7 @@ export default function Achievements({ achievements }) {
                 </span>
               </div>
 
-              <h3 style={{fontSize: '16px', fontWeight: '800', letterSpacing: '0.5px', color: '#F8pAFC', marginBottom: '10px'}}>
+              <h3 style={{fontSize: '16px', fontWeight: '800', letterSpacing: '0.5px', color: '#F8FAFC', marginBottom: '10px'}}>
                 {ach.title}
               </h3>
 

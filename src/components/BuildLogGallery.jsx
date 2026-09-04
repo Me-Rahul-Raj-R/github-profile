@@ -67,7 +67,7 @@ export default function BuildLogGallery({repositoryGroups, repos = repositoryGro
               <div style={{display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '10px'}}>
                 <div style={{display: 'flex', alignItems: 'center', gap: '6px'}}>
                   <Folder size={16} color="#00F0FE" />
-                  <span style={{fontFamily: 'JetBrains Mono', fontSize: '13px', color: '#F8pAFC', fontWeight: '700'}}>
+                  <span style={{fontFamily: 'JetBrains Mono', fontSize: '13px', color: '#F8FAFC', fontWeight: '700'}}>
                     {repo.name}
                   </span>
                 </div>

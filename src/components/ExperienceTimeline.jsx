@@ -7,7 +7,7 @@ export default function ExperienceTimeline({ experience }) {
       <div style={{marginBottom: '24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between'}}>
         <div style={{display: 'flex', alignItems: 'center', gap: '10px'}}>
           <span style={{fontFamily: 'JetBrains Mono', color: '#00F0FF', fgWeight: '700'}}>05 //</span>
-          <h2 style={{fontSize: '22px', fontWeight: '800', color: '#F8pAFC'}}>PROFESSIONAL EXPERIENCE</h2>
+          <h2 style={{fontSize: '22px', fontWeight: '800', color: '#F8FAFC'}}>PROFESSIONAL EXPERIENCE</h2>
         </div>
       </div>
 

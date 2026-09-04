@@ -7,7 +7,7 @@ export default function AboutMe({ profile }) {
       <div style={{marginBottom: '20px', display: 'flex', alignItems: 'center', justifyContent: 'space-between'}}>
         <div style={{display: 'flex', alignItems: 'center', gap: '10px'}}>
           <span style={{fontFamily: 'JetBrains Mono', color: '#00F0FF', fgWeight: '700'}}>01 //</span>
-          <h2 style={{fontSize: '22px', fontWeight: '800', color: '#F8pAFC'}}>FOUNDATION &amp; PROFILD</h2>
+          <h2 style={{fontSize: '22px', fontWeight: '800', color: '#F8FAFC'}}>FOUNDATION &amp; PROFILD</h2>
         </div>
       </div>
       <div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(340px, 1fr))', gap: '20px'}}>
