@@ -362,20 +362,61 @@ export const profileData = {
     }
   ],
   "leetcode": {
-    "url": "https://leetcode.com/u/Rahul-Raj-R/",
-    "totalSolved": 318,
-    "easy": 192,
-    "easyTotal": 962,
-    "medium": 103,
-    "mediumTotal": 2109,
-    "hard": 23,
-    "hardTotal": 971,
-    "acceptanceRate": "90.67%",
-    "submissionsYear": 386,
-    "activeDays": 111,
-    "maxStreak": 28,
-    "rank": "457,984",
-    "resumeMetric": "Solved 150+ LeetCode problems"
+      "url": "https://leetcode.com/u/Rahul-Raj-R/",
+      "username": "Rahul-Raj-R",
+      "rank": "458,335",
+      "totalSolved": 318,
+      "totalAvailable": 1042,
+      "attempting": 2,
+      "acceptanceRate": "90.67%",
+      "totalSubmissions": 450,
+      "submissionsYear": 386,
+      "activeDays": 111,
+      "maxStreak": 28,
+      "easy": 192,
+      "easyTotal": 962,
+      "medium": 103,
+      "mediumTotal": 2109,
+      "hard": 23,
+      "hardTotal": 971,
+      "badgesCount": 4,
+      "mostRecentBadge": "50 Days Badge 2026",
+      "skills": [
+          "Java",
+          "Full stack web development",
+          "SQL"
+      ],
+      "recentAccepted": [
+          {
+              "title": "Coin Change",
+              "difficulty": "Medium",
+              "tag": "Dynamic Programming",
+              "time": "2 months ago",
+              "url": "https://leetcode.com/problems/coin-change/"
+          },
+          {
+              "title": "Divide Two Integers",
+              "difficulty": "Medium",
+              "tag": "Math / Bit Manipulation",
+              "time": "2 months ago",
+              "url": "https://leetcode.com/problems/divide-two-integers/"
+          },
+          {
+              "title": "Sort Colors",
+              "difficulty": "Medium",
+              "tag": "Two Pointers / Sorting",
+              "time": "2 months ago",
+              "url": "https://leetcode.com/problems/sort-colors/"
+          },
+          {
+              "title": "3Sum",
+              "difficulty": "Medium",
+              "tag": "Two Pointers / Array",
+              "time": "2 months ago",
+              "url": "https://leetcode.com/problems/3sum/"
+          }
+      ],
+      "resumeMetric": "318+ LeetCode Solved | 90.67% Acceptance Rate"
   },
   "achievements": [
     {

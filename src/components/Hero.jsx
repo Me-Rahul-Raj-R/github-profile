@@ -34,7 +34,7 @@ export default function Hero({ profile }) {
           <h1 style={{
             position: 'relative',
             zIndex: 1,
-            fontSize: 'clamp(32px, 6ww, 52px)',
+            fontSize: 'clamp(32px, 6vw, 52px)',
             fontWeight: '900',
             letterSpacing: '3px',
             background: 'linear-gradient(90deg, #00F2FF 0%, #C084FC 40%, #EC4899 70%, #38BDF8 100%)',
@@ -55,7 +55,7 @@ export default function Hero({ profile }) {
             fontWeight: '500',
             marginBottom: '16px'
           }}>
-            SOFTWARE DEVELOPER &nbsp;)|&nbsp; Java Developer &nbsp;|&nbsp; Full Stack Web Developer
+            SOFTWARE DEVELOPER &nbsp;|&nbsp; Java Developer &nbsp;|&nbsp; Full Stack Web Developer
           </p>
 
           <div style={{position: 'relative', zIndex: 1, display: 'inline-block', padding: '5px 18px', borderRadius: '999px', background: '#0E1724', border: '1px solid rgba(56, 189, 248, 0.35)', marginBottom: '28px'}}>
