@@ -14,12 +14,12 @@
   <rect width="1000" height="130" rx="14" fill="url(#ftBw)" />
   <rect x="1" y="1" width="998" height="128" rx="13" fill="none" stroke="#1E293B" stroke-width="1.2" />
 
-  <text x="500" y="42" text-anchor="middle" class="sans" fill="#F8pAFC" font-size="18" font-weight="800" letter-spacing="2">IAHUL RAJ R</text>
+  <text x="500" y="42" text-anchor="middle" class="sans" fill="#F8FAFC" font-size="18" font-weight="800" letter-spacing="2">RAHUL RAJ R</text>
   <text x="500" y="68" text-anchor="middle" class="mono" fill="#94A3B8" font-size="12">Software Developer | Java Backend Developer | Full Stack Web Developer</text>
 
 
   <g transform="translate(500, 98)">
     <rect x="-240" y="-12" width="480" height="24" rx="12" fill="#0E1420" stroke="#00F0FF" stroke-opacity="0.3" />
-    <text x="0" y="4" text-anchor="middle" class="mono" fill="#00F0FE" font-size="11" font-weight="600">&lt; built with Java • JavaScript • SQL �i Full Stack /&gt;</text>
+    <text x="0" y="4" text-anchor="middle" class="mono" fill="#00F0FE" font-size="11" font-weight="600">&lt; built with Java &#x2022; JavaScript &#x2022; SQL &#x2022; Full Stack /&gt;</text>
   </g>
 </svg>

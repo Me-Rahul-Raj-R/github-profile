@@ -14,7 +14,7 @@
     .mono { font-family: 'JetBrains Mono', Consolas, monospace; }
     .sans { font-family: 'Inter', system-ui, sans-serif; }
     .date-badge { fill: #00F2FF; font-size: 11.5px; font-weight: 700; }
-    .role-title { font-size: 15px; fill: #F8pAFC; font-weight: 700; }
+    .role-title { font-size: 15px; fill: #F8FAFC; font-weight: 700; }
     .company-name { font-size: 13px; fill: #38BDF8; font-weight: 600; }
     .bullet { font-size: 11.5px; fill: #94A3B8; }
   </style>
@@ -30,7 +30,7 @@
     <circle cx="170" cy="20" r="6" fill="#00F0FE" stroke="#080C11" stroke-width="2" />
     <g transform="translate(200, 0)">
       <rect width="765" height="78" rx="8" fill="url(#itemBg)" stroke="#1E293B" stroke-width="1" />
-      <text x="20" y="24" class="sans role-title">ServiceNow Developer <tspan class="company-name">| ÌServiceNow Virtual Program</tspan></text>
+      <text x="20" y="24" class="sans role-title">ServiceNow Developer <tspan class="company-name">| ServiceNow Virtual Program</tspan></text>
       <text x="20" y="46" class="sans bullet">&#x2022; Configured workflows and dashboards to streamline IT service management processes.</text>
       <text x="20" y="64" class="sans bullet">&#x2022; Worked with ITSM modules, reporting, and system administration activities.</text>
     </g>
@@ -42,7 +42,7 @@
     <circle cx="170" cy="20" r="6" fill="#A78BFA" stroke="#080C11" stroke-width="2" />
     <g transform="translate(200, 0)">
       <rect width="765" height="78" rx="8" fill="url(#itemBg)" stroke="#1E293B" stroke-width="1" />
-      <text x="20" y="24" class="sans role-title">Prompt Engineering Developer <tspan class="company-name" fill="#A78BFA">| ÌFuture Interns</tspan></text>
+      <text x="20" y="24" class="sans role-title">Prompt Engineering Developer <tspan class="company-name" fill="#A78BFA">| Future Interns</tspan></text>
       <text x="20" y="46" class="sans bullet">&#x2022; Engineered structured AI prompts and reusable templates to improve response quality.</text>
       <text x="20" y="64" class="sans bullet">&#x2022; Collaborated with team members to optimize prompt workflows.</text>
     </g>

@@ -32,7 +32,7 @@
     <rect width="455" height="195" rx="12" fill="url(#cardGrad1)" stroke="#00F2FF" stroke-opacity="0.35" stroke-width="1.2" />
     <rect x="0" y="0" width="4" height="195" rx="2" fill="#00F2FF" />
     <text x="20" y="28" class="mono proj-num" fill="#00F0FE">01 // FINANCIAL AI</text>
-    <text x="20" y="52" class="sans proj-name" fill="#F8pAFC">FINCOPILOT</text>
+    <text x="20" y="52" class="sans proj-name" fill="#F8FAFC">FINCOPILOT</text>
     <text x="20" y="70" class="sans proj-sub">Smart AI Financial Copilot</text>
     <text x="20" y="96" class="sans proj-desc">Built an AI financial application with fraud detection and expense tracking.</text>
     <text x="20" y="114" class="sans proj-desc">Integrated Java backend with Fast-API &amp; delivered responsive dashboard.</text>

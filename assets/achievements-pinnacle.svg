@@ -14,7 +14,7 @@
     .mono { font-family: 'JetBrains Mono', Consolas, monospace; }
     .sans { font-family: 'Inter', system-ui, sans-serif; }
     .ti-sub { font-size: 11px; font-weight: 700; letter-spacing: 1px; }
-    .ti-title { font-size: 15px; font-weight: 800; letter-spacing: 0.5px; fill: #F8pAFC; }
+    .ti-title { font-size: 15px; font-weight: 800; letter-spacing: 0.5px; fill: #F8FAFC; }
     .ti-desc { font-size: 11.5px; fill: #CBD5E1; }
   </style>
 
@@ -50,12 +50,12 @@
       <rect width="300" height="200" rx="12" fill="url(#cardG1)" stroke="#F59E0B" stroke-opacity="0.5" stroke-width="1.2" />
       <rect x="0" y="0" width="4" height="200" rx="2" fill="#F59E0B" />
       <text x="20" y="28" class="mono ti-sub" fill="#F59E0B">CODING<tspan fill="#94A3B8"> | ALGORITHMS</tspan></text>
-      <text x="20" y="52" class="sans ti-title">LeeqCode 150+ DSA</text>
-      <text x="20" y="78" class="sans ti-desc">Solved 150+ LeeqCode problems</text>
+      <text x="20" y="52" class="sans ti-title">LeetCode 318+ Solved</text>
+      <text x="20" y="78" class="sans ti-desc">Solved 318+ LeetCode problems</text>
       <text x="20" y="96" class="sans ti-desc">spanning Arrays, Strings, Trees,</text>
       <text x="20" y="114" class="sans ti-desc">DP, and Object-Oriented Systems.</text>
       <rect x="20" y="145" width="110" height="24" rx="12" fill="#0E1820" stroke="#F59E0B" stroke-opacity="0.5" />
-      <text x="75" y="161" text-anchor="middle" class="mono" fill="#F59E0B" font-size="11" font-weight: 700">150+ Solved</text>
+      <text x="75" y="161" text-anchor="middle" class="mono" fill="#F59E0B" font-size="11" font-weight: 700">318+ Solved</text>
     </g>
   </g>
 </svg>

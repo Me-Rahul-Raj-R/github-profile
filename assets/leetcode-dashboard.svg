@@ -37,13 +37,13 @@
     <g transform="translate(0, 70)">
       <rect width="180" height="55" rx="8" fill="#111B28" stroke="#F59E0B" stroke-opacity="0.4" stroke-width="1" />
       <text x="16" y="24" class="sans" fill="#F59E0B" font-size="13" font-weight="700">Medium</text>
-      <text x="16" y="44" class="mono" fill="#F8FAFC" font-size="16" font-weight: 700">103 <tspan fill="#64748I" font-size="11">/ 2109</tspan></text>
+      <text x="16" y="44" class="mono" fill="#F8FAFC" font-size="16" font-weight: 700">103 <tspan fill="#64748B" font-size="11">/ 2109</tspan></text>
     </g>
 
     <g transform="translate(0, 140)">
       <rect width="180" height="55" rx="8" fill="#111B28" stroke="#EF4444" stroke-opacity="0.4" stroke-width="1" />
       <text x="16" y="24" class="sans" fill="#EF4444" font-size="13" font-weight="700">Hard</text>
-      <text x="16" y="44" class="mono" fill="#F8pAFC" font-size="16" font-weight="700">23 <tspan fill="#64748B" font-size="11">/ 971</tspan></text>
+      <text x="16" y="44" class="mono" fill="#F8FAFC" font-size="16" font-weight="700">23 <tspan fill="#64748B" font-size="11">/ 971</tspan></text>
     </g>
   </g>
 
@@ -63,10 +63,10 @@
     <line x1="25" y1="85" x2="430" y2="85" stroke="#1E293B" stroke-width="1" />
 
     <g transform="translate(25, 110)">
-      <text x="0" y="16" class="mono" fill="#F8pAFC" font-size="14" font-weight="700">388 <tspan fill="#94A3B8" font-size="11">Submissions (Year)</tspan></text>
+      <text x="0" y="16" class="mono" fill="#F8FAFC" font-size="14" font-weight="700">386 <tspan fill="#94A3B8" font-size="11">Submissions (Year)</tspan></text>
       <text x="0" y="42" class="mono" fill="#F8FAFC" font-size="14" font-weight="700">111 <tspan fill="#94A3B8" font-size="11">Active Days</tspan></text>
       
-      <text x="240" y="16" class="mono" fill="#F8pAFC" font-size="14" font-weight="700">28 Days <tspan fill=#94A3B8" font-size="11">Max Streak</tspan></text>
+      <text x="240" y="16" class="mono" fill="#F8FAFC" font-size="14" font-weight="700">28 Days <tspan fill="#94A3B8" font-size="11">Max Streak</tspan></text>
       <text x="240" y="42" class="mono" fill="#10B981" font-size="13" font-weight="700">&#x2714; 150+ <tspan fill="#94A3B8" font-size="11">Core DSA Solved</tspan></text>
     </g>
 
